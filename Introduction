@@ -1,10 +1,17 @@
 Introduction to Markdown
 ========================
 
-Introduction
+## Introduction ##
 
-Methods
+## Methods ##
 
-Results
+## Results ##
 
-Discussion
+## Discussion ##
+
+### Reccomendations ###
+
+hashtags can be used to cover the 6 level of headings found in google docs and the number of hastags correlates to
+the level of heading. 
+  Ex: # heading 1 #
+      ## heading 2 ##
