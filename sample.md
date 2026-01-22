@@ -24,3 +24,9 @@ the level of heading. You don't have to put hashtags at the end.
   Ex: # heading 1 #
       ## heading 2 ##
 
+_underscore_ italicizes a word
+*astrisks* works as well
+**two astrisks** makes a word bold
+__double underscore__ works as well
+
+
