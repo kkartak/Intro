@@ -1,14 +1,12 @@
-# 5 reasons I love using markdown
+# Intriquing tools I've learned about markdown in my first week
 
-I like writing listicles using markdown beacause I don't get bogged down in the design and look of the article
-Listicles are some of the top viewing articles to write
+For me the biggest benefit of learning something knew, is wheather or not it can be useful.
+If the skills and knowledge I've aquired can be implemented into my day-to-day job, and if so how.
 
-Here are five things I like about formating technical articles with **Markdown**:
+Here are three things I learned about that I found the most enjoyable:
 
-## Its easy to write
+##  
 
-With markdown, It's just text.
-You can write in Markdown with any kind of text editor.
 
 ## It's not distracting
 
