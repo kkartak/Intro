@@ -14,9 +14,14 @@ in what I'm writing, but lets me appreciate how it's not about how an article lo
 Markdown lets me do what I love doing which is writing; in adition it lets me us my computer scicene skills I learned once again in a practical way so I don't feel as if my other skills and talents are being wasted. 
 It gives me a sense of acomplishment.
 
-## The use of _underlines_ and **astrics**
+## The use of _underlines_ and *asterisks*
 
-I find the used of these tools allows for my writing to be quicker and more precise because I don't have to think about what I want bolded or italicised I can't simply push a simply key before and after a letter, word, or phrase and the software will do it for me.
+I find the used of these tools allows for my writing to be quicker and more precise because I don't have to think about what I want bolded or italicised I can simply add a keystroke before and after a letter, word, or phrase and the software will do the rest of it for me.
 This tool is wonderful to me because I wasn't previously aware of it and the capabilities it provided for improving my typing speed.
+Which will allow me to get projects, tasks, and work assignments down at a much quicker and more efficient rate.
 
-## Docs as Code
+## Using GitHub 
+
+The use of GitHub was a wholly new concept to me I never knew that code style writing was such a popular and widley used form for people within the technical writing field. When I first heard of the the acronoym HTML I figured it was a type of coorporate typing style. I didn't know it was just a general term for the way in which someone writes there documents or other forms of artciles in a way that allowed others to colaborate on and track edits and suggestions made to files. It's nice to see that this style of writing isn't as complex and as scary as I had initially thought it to be. GitHub makes navigating its interface and software very straightforward and simple to understand. I had no trouble signing up and creating an account even though I had missed the initial class where creating accounts and learning the platform was held. The anxiety I felt from being behind vanished almost instantly once I logged in and created my repository; though this may be attributed to my computer skills and how comfortable I am with technologies similar to GitHub.
+
+Overall the tools I've learned in the first week alone makes me feel much better equiped to join the technical writing workforce and not feel like I've lagged behind or out of the loop of some inside joke only those in the profession would understand. It gives me a sense of confidence in my technical writing skill and adds another tool to my ever growning repertoire.
