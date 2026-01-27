@@ -8,6 +8,9 @@ These code samples can include:
 - actual source code sample
 - a program session
 - and other things
+  * File names
+  * folder names
+  * program names
 
 ### Different uses of list items can cause Markdown to treat them as two separate lists; this will add a space between them.
 Example:
